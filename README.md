@@ -1,2 +1,2 @@
 # Go-Create-Files
-Creating files in Go
+Creating files (.PDF, .TXT and so on) in Go is easy. 
