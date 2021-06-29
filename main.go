@@ -12,6 +12,9 @@ func main() {
 
 		return
 	}
+	//Close the file
+	defer file.Close()
+	
 	// Write data into the created file
 	file.WriteString("data")
 }
